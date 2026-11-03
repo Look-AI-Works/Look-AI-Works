@@ -36,12 +36,10 @@
 <details>
 <summary><strong>English version</strong></summary>
 
-I am a **graduate student in Artificial Intelligence at Xidian University**. I completed my undergraduate studies in **Mathematics and Applied Mathematics at China University of Geosciences (Beijing)**. I hope to connect mathematical thinking with algorithmic practice and continue learning and exploring artificial intelligence. I welcome opportunities to exchange ideas and collaborate.
-
+I am a **graduate student in Artificial Intelligence at Xidian University**. 
 ### Education
 
 - **Xidian University** · Artificial Intelligence · Graduate student (current)
-- **China University of Geosciences (Beijing)** · Mathematics and Applied Mathematics · Undergraduate
 
 ### Honors and Awards
 

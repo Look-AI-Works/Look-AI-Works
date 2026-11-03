@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://github.com/Ningzc-ai">
-    <img src="https://github.com/Ningzc-ai.png" width="160" alt="Ningzc" />
+    <img src="https://github.com/Ningzc-ai.png" width="160" alt="Look" />
   </a>
 </p>
 
-<h1 align="center">Ningzc</h1>
+<h1 align="center">Look</h1>
 
 <p align="center">
   <strong>Graduate Student in Artificial Intelligence · Xidian University</strong>

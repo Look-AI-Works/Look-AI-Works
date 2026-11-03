@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/Ningzc-ai">
-    <img src="https://github.com/Ningzc-ai.png" width="160" alt="Look" />
+  <a href="https://github.com/Look-AI-Works">
+    <img src="https://avatars.githubusercontent.com/u/270321916?v=4" width="160" alt="Look" />
   </a>
 </p>
 
@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ningzc-ai">GitHub</a> ·
-  <a href="mailto:zuchaoning@gmail.com">Email</a>
+  <a href="https://github.com/Look-AI-Works">GitHub</a> ·
+  <a href="mailto:zuchaoning@gmail.com">Gmail</a>
 </p>
 
 <details open>
@@ -51,6 +51,10 @@ I am a **graduate student in Artificial Intelligence at Xidian University**. I c
 
 </details>
 
+### 项目 · Projects
+
+- [Local Qwen API](https://github.com/Look-AI-Works/local-qwen-api) · 在 Mac 上部署千问，使用终端或网页连续对话，并通过 HTTPS 分享聊天 API。
+
 ### Find me
 
-[zuchaoning@gmail.com](mailto:zuchaoning@gmail.com) · [GitHub](https://github.com/Ningzc-ai)
+[Gmail](mailto:zuchaoning@gmail.com) · [GitHub](https://github.com/Look-AI-Works)

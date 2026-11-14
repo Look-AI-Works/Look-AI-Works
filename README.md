@@ -29,6 +29,7 @@
 
 - **全国大学生数学竞赛** · 初赛一等奖
 - **全国大学生市场调研竞赛** · 三等奖
+- “华为杯”第二十三届中国研究生数学建模竞赛 · 三等奖
 - **腾讯开悟算法竞赛** · 全国二等奖 · [项目代码](https://github.com/bianyh/2026-Tencent-AI-Arena-D1-Regional-Final)
 
 </details>
@@ -45,6 +46,7 @@ I am a **graduate student in Artificial Intelligence at Xidian University**.
 
 - **National College Student Mathematics Competition** · First Prize, Preliminary Round
 - **National College Student Market Research Competition** · Third Prize
+- **"HUAWEI Cup" The 23rd China Pst in Modelingost-Graduate Mathematical Contes** · Third Prize
 - **Tencent AI Arena Algorithm Competition** · National Second Prize · [Project Code](https://github.com/bianyh/2026-Tencent-AI-Arena-D1-Regional-Final)
 
 </details>
